@@ -27,7 +27,7 @@
     "test": "echo NO TESTS"
   },
   "dependencies": {
-    "@oclif/core": "^1.13.10",
+    "@oclif/core": "^1.14.1",
     "@oclif/plugin-version": "^1.1.1",
     "execa": "^5.1.1"
   },
